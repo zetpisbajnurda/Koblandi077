@@ -1,4 +1,4 @@
-[nurik.txt](https://github.com/user-attachments/files/22898396/nurik.txt)
+[nuriknn.html](https://github.com/user-attachments/files/23008189/nuriknn.html)
 <!DOCTYPE html>
 <html lang="kk">
 <head>
@@ -63,12 +63,12 @@ nav -навигация
 <a href="https://chat.whatsapp.com/DJh7oLpNlwOKrhDnYPbky5/"></a>
 
 <!-- Открыть в новой вкладке -->
-<a href="https://web.whatsapp.com/" target="_blank" rel="noopener noreferrer"> Байланыс номер-87759645841</a>
+<a href="https://chat.whatsapp.com/DJh7oLpNlwOKrhDnYPbky5" target="_blank" rel="noopener noreferrer">87759645841</a>
 
 <!-- Кнопка через JS -->
 <button id="go"></button>
 <script>
   document.getElementById('go').onclick = () => window.open('https://example.com', '_blank', 'noopener');
-
+</script>
 </body>
 </html>
