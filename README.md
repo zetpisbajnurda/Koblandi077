@@ -59,6 +59,16 @@ nav -навигация
     <p>📧 info@koblandi-shop.kz</p>
     <p class="copy">©Қобыланды батыр-2025 </p>
   </footer>
+<!-- Открыть в той же вкладке -->
+<a href="https://chat.whatsapp.com/DJh7oLpNlwOKrhDnYPbky5/"></a>
+
+<!-- Открыть в новой вкладке -->
+<a href="https://web.whatsapp.com/" target="_blank" rel="noopener noreferrer"> Байланыс номер-87759645841</a>
+
+<!-- Кнопка через JS -->
+<button id="go"></button>
+<script>
+  document.getElementById('go').onclick = () => window.open('https://example.com', '_blank', 'noopener');
 
 </body>
 </html>
